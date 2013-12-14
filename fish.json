@@ -1,0 +1,1337 @@
+﻿[
+    {
+        "name": "Bitterling",
+        "price": 900,
+        "shadow": "Shortest",
+        "location": "River",
+        "time": "All Day",
+        "months": {
+            "january": "high",
+            "february": "high",
+            "november": "low",
+            "december": "high"
+        },
+        "catch_phrase": "I caught a Bitterling! What's it so bitter about?",
+        "museum_detail": "These fish are so small, they can fit their entire body into the palm of your hand. During mating season, the male's belly turns a light orange in order to properly attract a mate. They live in rivers and lakes and deposit eggs in large bivalves where the eggs hatch and live for a while.",
+        "japanese": "タナゴ"
+    },
+    {
+        "name": "Pale Chub",
+        "price": 200,
+        "shadow": "Shortest",
+        "location": "River",
+        "time": "9AM-4PM",
+        "months": {
+            "january": "low",
+            "february": "low",
+            "march": "high",
+            "april": "high",
+            "may": "high",
+            "june": "high",
+            "july": "low",
+            "august": "high",
+            "september": "high",
+            "october": "high",
+            "november": "high",
+            "december": "low"
+        },
+        "catch_phrase": "I caught a pale chub! It could use some sun!",
+        "museum_detail": "These fish are related to carp, with distinguishing features such as long ventral fins and protruding mouths. They have good jumping abilities, which allow them to jump up and grab bugs hanging around on the water. They are known as very active fish with rather scrappy attitudes, making them tenacious survivors. During mating season, the male's stomach turns pink and its back turns blue. Females love this.",
+        "japanese": "オイカワ"
+    },
+    {
+        "name": "Crucian Carp",
+        "price": 120,
+        "shadow": "Short",
+        "location": "River",
+        "time": "All Day",
+        "months": {
+            "january": "low",
+            "february": "low",
+            "march": "low",
+            "april": "low",
+            "may": "low",
+            "june": "low",
+            "july": "low",
+            "august": "low",
+            "september": "low",
+            "october": "low",
+            "november": "low",
+            "december": "low"
+        },
+        "catch_phrase": "I caught a crucian carp! What a crucial catch!",
+        "museum_detail": "Crucian carp are fairly easy fish for beginners to catch, but they're also popular with veteran anglers. They are related to koi and can live up to 15 years, making them a great fish to keep in a pond. Male offspring are seldom born, so females significantly outnumber males, making populations suffer. Luckily, females can reproduce with males of some other species, so the problem is relatively temporary.",
+        "japanese": "フナ"
+    },
+    {
+        "name": "Dace",
+        "price": 200,
+        "shadow": "Medium",
+        "location": "River",
+        "time": "4PM-9AM",
+        "months": {
+            "january": "high",
+            "february": "high",
+            "march": "high",
+            "april": "low",
+            "may": "low",
+            "june": "low",
+            "july": "low",
+            "august": "low",
+            "september": "low",
+            "october": "low",
+            "november": "high",
+            "december": "high"
+        },
+        "catch_phrase": "I caught a dace! Wrong place, Mr. Dace!",
+        "museum_detail": "Dace can live in cloudier, murkier water than most but are easy to see as their numbers are so plentiful.  They are related to carp, and some species of dace live in the ocean as well as rivers and streams.  During mating season, the bellies of the males develop an orange stripe to indicate their intent to mate.",
+        "japanese": "ウグイ"
+    },
+    {
+        "name": "Barbel Steed",
+        "price": 200,
+        "shadow": "Medium",
+        "location": "River",
+        "time": "All Day",
+        "months": {
+            "january": "low",
+            "february": "low",
+            "march": "high",
+            "april": "low",
+            "may": "low",
+            "june": "low",
+            "july": "low",
+            "august": "low",
+            "september": "low",
+            "october": "high",
+            "november": "high",
+            "december": "low"
+        },
+        "catch_phrase": "I caught a barbel steed! It just needs a barbel saddle!",
+        "museum_detail": "Barbel steeds have a longer distance between their eyes and mouths than carps do. This makes them look almost like they're averting their eyes downward in embarrassment. Their whiskers aren't as long as carp whiskers, so the resemblance is still only minor. They are full of bones, but they're edible nonetheless and actually taste similar to flounder.",
+        "japanese": "ニゴイ"
+    },
+    {
+        "name": "Carp",
+        "price": 300,
+        "shadow": "Long",
+        "location": "River",
+        "time": "All Day",
+        "months": {
+            "january": "low",
+            "february": "low",
+            "march": "low",
+            "april": "high",
+            "may": "high",
+            "june": "high",
+            "july": "high",
+            "august": "low",
+            "september": "low",
+            "october": "high",
+            "november": "high",
+            "december": "low"
+        },
+        "catch_phrase": "I caught a carp! I really seized the diem!",
+        "museum_detail": "These tough fish have very long life spans, capping out at ages surpassing 100 years. Their whiskers are one of their trademark features, making them relatively easy to identify. They're omnivorous and eat waterweed and bugs by sucking their food into their mouths. They also have teeth in the back of their throats that help break down shellfish for digestion.",
+        "japanese": "コイ"
+    },
+    {
+        "name": "Koi",
+        "price": 4000,
+        "shadow": "Long",
+        "location": "River",
+        "time": "4PM-9AM",
+        "months": {
+            "january": "low",
+            "february": "low",
+            "march": "low",
+            "april": "low",
+            "may": "low",
+            "june": "low",
+            "july": "low",
+            "august": "low",
+            "september": "low",
+            "october": "low",
+            "november": "low",
+            "december": "low"
+        },
+        "catch_phrase": "I caught a koi! Can't play koi with me!",
+        "museum_detail": "Though typically pale in color, these aquarium fish also can be found with rather beautiful patterns. This is all thanks to very selective breeding of carp with genetic mutations, allowing for diversity.  No two koi have the exact same pattern and are popularly known as \"swimming jewels\" as a result. They can be sold for a very high price, depending on their coloring and pattern. If properly cared for, they can live for over 100 years, making them a staple for outdoor garden ponds. ",
+        "japanese": "ニシキゴイ"
+    },
+    {
+        "name": "Goldfish",
+        "price": 1300,
+        "shadow": "Shortest",
+        "location": "River",
+        "time": "All Day",
+        "months": {
+            "january": "low",
+            "february": "low",
+            "march": "low",
+            "april": "low",
+            "may": "low",
+            "june": "low",
+            "july": "low",
+            "august": "low",
+            "september": "low",
+            "october": "low",
+            "november": "low",
+            "december": "low"
+        },
+        "catch_phrase": "I caught a goldfish! It's worth its weight in gold!",
+        "museum_detail": "These are aquarium fish that came about by selectively breeding types of crucian carp.  It took hundreds of years to get the long tail fin and beautiful color of the current breed.  Even red goldfish are black when they are young and still retain some other vestiges of the crucian carp.  They turn red as they grow, thus gaining their much more commonly known look.",
+        "japanese": "キンギョ"
+    },
+    {
+        "name": "Pop-eyed Goldfish",
+        "price": 1300,
+        "shadow": "Shortest",
+        "location": "River",
+        "time": "9AM-4PM",
+        "months": {
+            "january": "low",
+            "february": "low",
+            "march": "low",
+            "april": "low",
+            "may": "low",
+            "june": "low",
+            "july": "low",
+            "august": "low",
+            "september": "low",
+            "october": "low",
+            "november": "low",
+            "december": "low"
+        },
+        "catch_phrase": "I got a pop-eyed goldfish! It should have eaten its spinach!",
+        "museum_detail": "They're known for their protruding eyes, as the name indicates, but this feature is actually a detriment. Their vision is quite poor, to the point that they will swim past food and frequently bump into things. They are a type of goldfish and get their distinguishing eye pop about two months after birth.",
+        "japanese": "デメキン"
+    },
+    {
+        "name": "Killifish",
+        "price": 300,
+        "shadow": "Shortest",
+        "location": "Small Pond",
+        "time": "All Day",
+        "months": {
+            "april": "low",
+            "may": "low",
+            "june": "low",
+            "july": "low",
+            "august": "low"
+        },
+        "catch_phrase": "Maybe I'll put it in a chili dish!",
+        "museum_detail": "Killifish are small, travel in schools, and are known for having eyes higher up on their faces than others. They swim in shallow areas in rivers and mostly eat bugs that float on the surface of the water. This is why they have mouths as high up their faces as their eyes, making them effective hunters. Being the same temperature as the water they inhabit, getting grabbed by warm hands can shock them.",
+        "japanese": "メダカ"
+    },
+    {
+        "name": "Crawfish",
+        "price": 200,
+        "shadow": "Short",
+        "location": "Small Pond",
+        "time": "All Day",
+        "months": {
+            "april": "low",
+            "may": "low",
+            "june": "low",
+            "july": "low",
+            "august": "low",
+            "september": "low"
+        },
+        "catch_phrase": "I caught a crawfish! Watch those pinchers!",
+        "museum_detail": "These shrimp relatives are usually found in ponds and rivers, typically making them easy to catch. The reason for this strange habitat is that crawfish are plentiful and will eat just about anything. Eating plant material makes their bodies red, but only eating fish and meat will turn their bodies blue. A red color indicates they are eating a healthy and balanced diet, so red is ideal for the species.",
+        "japanese": "ザリガニ"
+    },
+    {
+        "name": "Soft-shelled Turtle",
+        "price": 3750,
+        "shadow": "Medium",
+        "location": "River",
+        "time": "4PM-9AM",
+        "months": {
+            "august": "low",
+            "september": "low"
+        },
+        "catch_phrase": "I caught a soft shelled turtle! Dont suffer shell shock!",
+        "museum_detail": "These relatives of common turtles will not let go when they decide to bite down on something. Although they can be quite shy, they will become a bit aggressive when threatened. They are often found in water and are very good swimmers because of the flat shape of their shells. They swim with their snouts over the surface of the water so they can breathe. Soft-shelled turtles aren't safe to hold because they are so prone to biting at the slightest movement. However, if one bites down on you, it will usually let go when you put it safely back in the water.",
+        "japanese": "スッポン"
+    },
+    {
+        "name": "Tadpole",
+        "price": 100,
+        "shadow": "Shortest",
+        "location": "Small Pond",
+        "time": "All Day",
+        "months": {
+            "march": "low",
+            "april": "low",
+            "may": "low",
+            "june": "low",
+            "july": "low"
+        },
+        "catch_phrase": "I caught a tadpole... I'm sure it will grow on me.",
+        "museum_detail": "Tadpoles are nothing more than baby frogs and generally inhabit ponds and streams. Their round heads and quirky style of movement give them a different kind of cuteness from adult frogs. They become more frog-like when they eventually grow legs and start to lose their tails. Unlike fish, though, their skin is very delicate because they do not have scales, so handle carefully.",
+        "japanese": "オタマジャクシ"
+    },
+    {
+        "name": "Frog",
+        "price": 120,
+        "shadow": "Short",
+        "location": "Small Pond",
+        "time": "All Day",
+        "months": {
+            "may": "low",
+            "june": "low",
+            "july": "low",
+            "august": "low"
+        },
+        "catch_phrase": "I caught a frog! Hop to it, froggie!",
+        "museum_detail": "These former tadpoles prefer to live near ponds and other damp and swampy places. They dwell on land, so they have lungs and skin as opposed to a set of gills. They like to stick close to water because they require a nice, moist lifestyle. Frogs are moist because they emit a liquid to protect their skin from dryness. If too much moisture evaporates from their thin skins, they could have trouble breathing. It's better not to handle frogs, as some species are poisonous, even to the touch!",
+        "japanese": "カエル"
+    },
+    {
+        "name": "Freshwater Goby",
+        "price": 300,
+        "shadow": "Short",
+        "location": "River",
+        "time": "4PM-9AM",
+        "months": {
+            "january": "low",
+            "february": "low",
+            "march": "low",
+            "april": "low",
+            "may": "low",
+            "june": "low",
+            "july": "low",
+            "august": "low",
+            "september": "low",
+            "october": "low",
+            "november": "low",
+            "december": "low"
+        },
+        "catch_phrase": "I caught a feshwater goby! You fresh, goby!",
+        "museum_detail": "These short and stocky river-dwelling fish have a lot of slender teeth for tearing apart other fish. Freshwater gobies dig holes under rocks in riverbeds to make nests for eggs, which the males guard. Other fish breeds take advantage of this protective quality and often lay eggs in goby nests.",
+        "japanese": "ドンコ"
+    },
+    {
+        "name": "Loach",
+        "price": 300,
+        "shadow": "Short",
+        "location": "River",
+        "time": "All Day",
+        "months": {
+            "march": "high",
+            "april": "high",
+            "may": "low"
+        },
+        "catch_phrase": "I caught a loach! It wasn't hard to approach!",
+        "museum_detail": "",
+        "japanese": "ドジョウ"
+    },
+    {
+        "name": "Catfish",
+        "price": 800,
+        "shadow": "Long",
+        "location": "Lake",
+        "time": "4PM-9AM",
+        "months": {
+            "may": "low",
+            "june": "low",
+            "july": "low",
+            "august": "low",
+            "september": "low",
+            "october": "low"
+        },
+        "catch_phrase": "I caught a catfish! Do you think it has 9 lives?",
+        "museum_detail": "Catfish are known for their long whiskers, wide bodies, and large mouths, but they don't have fur. Despite having large eyes, they have rather poor eyesight. They make up for this with sensory whiskers. Catfish have small horizontal and vertical lines in their bodies, almost like perforated lines. These holes are for detecting weak electrical currents of other fish, making them adept hunters. Catfish are artful carnivores as they swim around lazily but then strike quickly when prey is found.",
+        "japanese": "ナマズ"
+    },
+    {
+        "name": "Eel",
+        "price": 2000,
+        "shadow": "Long and Thin",
+        "location": "River",
+        "time": "4PM-9AM",
+        "months": {
+            "june": "high",
+            "july": "high",
+            "august": "high",
+            "september": "low"
+        },
+        "catch_phrase": "I caught an eel! Things just got REAL!",
+        "museum_detail": "Eels are born in the ocean but swim upstream through rivers when they become adults. They do, however, eventually swim back to the ocean when it is time to lay eggs. Their blood can be toxic, which is why you've never heard of eel sashimi. It's just too dangerous. Cooked eel, however, is edible and has no poisonous effects to speak of, making it a popular dish. For a long time, the egg-laying locations and habits of eels were largely a mystery. However, they are gradually being revealed through research, making eels a very hot topic of study.",
+        "japanese": "ウナギ"
+    },
+    {
+        "name": "Giant Snakehead",
+        "price": 5500,
+        "shadow": "Very Long",
+        "location": "Lake",
+        "time": "9AM-4PM",
+        "months": {
+            "june": "low",
+            "july": "low",
+            "august": "low"
+        },
+        "catch_phrase": "I caught a giant snakehead! Now where is the rest of the snake?",
+        "museum_detail": "Giant  snakeheads get their name from the fact their heads look like those of snakes. Their scales and patterns also look like snakes', really bringing the resemblance to a high degree.They have sharp teeth, so don't poke your finger anywhere near their mouths! Both males and females are well known for protecting their eggs and offspring. They will scare off any other fish that approach by frantically waving their tails.",
+        "japanese": "ライギョ"
+    },
+    {
+        "name": "Bluegill",
+        "price": 120,
+        "shadow": "Short",
+        "location": "River",
+        "time": "9AM-4PM",
+        "months": {
+            "january": "low",
+            "february": "low",
+            "march": "high",
+            "april": "high",
+            "may": "high",
+            "june": "high",
+            "july": "high",
+            "august": "high",
+            "september": "high",
+            "october": "high",
+            "november": "high",
+            "december": "low"
+        },
+        "catch_phrase": "I caught a bluegill! There's a lot in this ville!",
+        "museum_detail": "Bluegills have spikes on their dorsal fins to protect them from enemies and harm. Their offspring actually have a fairly high survival rate when compared to other fish. The males chase away the females and take over protecting the eggs and babies in the nest. Although bluegills are small, they are actually related quite closely to black bass.",
+        "japanese": "ブルーギル"
+    },
+    {
+        "name": "Yellow Perch",
+        "price": 240,
+        "shadow": "Medium",
+        "location": "River",
+        "time": "All Day",
+        "months": {
+            "january": "high",
+            "february": "high",
+            "march": "low",
+            "october": "low",
+            "november": "high",
+            "december": "high"
+        },
+        "catch_phrase": "I caught a yellow perch! I wonder if birds usually stand on it?",
+        "museum_detail": "These fish are relatives of sea bass, though they preyed on by other, larger fish, such as black bass.Their defining features are their large, prickly dorsal fins and gray stripes on pale-yellow bodies. Ice fishing on frozen lakes is a very popular way to catch them in their native United States and Canada. They are often fried before being eaten, which makes them a simple but tasty meal.",
+        "japanese": "イエローパーチ"
+    },
+    {
+        "name": "Black Bass",
+        "price": 300,
+        "shadow": "Long",
+        "location": "River",
+        "time": "All Day",
+        "months": {
+            "january": "low",
+            "february": "low",
+            "march": "high",
+            "april": "high",
+            "may": "high",
+            "june": "high",
+            "july": "high",
+            "august": "high",
+            "september": "high",
+            "october": "high",
+            "november": "high",
+            "december": "low"
+        },
+        "catch_phrase": "I caught a black bass! I've got some class!",
+        "museum_detail": "They got their name from their somewhat blackish bodies, though they have a green tint. They usually hide in weeds and wait until other fish approach before forcefully striking. Many people use lures to catch black bass because they are such strong fish. Black bass have fierce image, as the males will scare off other fish to protect the fry in the nest. They are related to sea bass, so they make for a tasty dinner, though their skin has a very strong odor.",
+        "japanese": "ブラックバス"
+    },
+    {
+        "name": "Pike",
+        "price": 1800,
+        "shadow": "Very Long",
+        "location": "River",
+        "time": "4AM-9PM",
+        "months": {
+            "september": "low",
+            "october": "low",
+            "november": "low",
+            "december": "low"
+        },
+        "catch_phrase": "I caught a pike! Oh, yes, I like!",
+        "museum_detail": "Pike are only found in cold water, so they cannot live in warmer parts of the world. They can grow over three feet long and as such are a very popular fish with anglers. Pike have a slightly protruding jaw and large mouths with sharp teeth, making them powerful predators. They use these teeth for tearing apart not only other fish but also birds and other aquatic creatures.",
+        "japanese": "パイク"
+    },
+    {
+        "name": "Pond Smelt",
+        "price": 300,
+        "shadow": "Short",
+        "location": "River",
+        "time": "All Day",
+        "months": {
+            "january": "low",
+            "february": "low",
+            "december": "low"
+        },
+        "catch_phrase": "I caught a pond smelt! It could sure use a bath!",
+        "museum_detail": "Pond smelt are small but vigorous fish that can survive in water of relatively poor quality. Pond smelt are related to salmon and as such have a lot of the same migratory tendencies. Most of them swim from rivers to the ocean and then return to rivers and lakes. However, some of them actually live in lakes that have no connection to the ocean, so they don't migrate. They have small fins and are perfect for eating whole as tempura or grilled on barbecues.",
+        "japanese": "ワカサギ"
+    },
+    {
+        "name": "Sweetfish",
+        "price": 900,
+        "shadow": "Medium",
+        "location": "River",
+        "time": "All Day",
+        "months": {
+            "july": "low",
+            "august": "low",
+            "september": "low"
+        },
+        "catch_phrase": "I caught a sweet fish! Hmmm. I've had sweeter!",
+        "museum_detail": "Sweetfish are migratory fish born upstream that travel to the ocean and then return to rivers to spawn. The migratory mind-set is what emphasizes their similarity to salmon. Adult sweetfish have a watermelon-like mossy smell when caught, since they eat moss on riverbed rocks. Sweetfish are very territorial and will attack rivals that encroach on their territory. Anglers use this combative nature against them by using lures made of other sweetfish.",
+        "japanese": "アユ"
+    },
+    {
+        "name": "Cherry Salmon",
+        "price": 1000,
+        "shadow": "Medium",
+        "location": "River",
+        "time": "4AM-9AM and 4PM-9PM",
+        "months": {
+            "march": "high",
+            "april": "high",
+            "may": "low",
+            "june": "low",
+            "september": "low",
+            "october": "high",
+            "november": "low"
+        },
+        "catch_phrase": "I caught a cherry salmon! Now for a cherry-salmon pie!",
+        "museum_detail": "The spotted pattern on cherry salmon serves as camouflage and is rather common in all salmon. Most cherry salmon spend their lives in rivers, but some do migrate to the ocean to fully mature. They are popular with anglers because of their well-balanced physique and beautiful patterns. Plus, their nature makes them a good challenge to catch, which just adds to the fun.",
+        "japanese": "ヤマメ"
+    },
+    {
+        "name": "Char",
+        "price": 3800,
+        "shadow": "Medium",
+        "location": "Waterfall",
+        "time": "4AM-9AM and 4PM-9PM",
+        "months": {
+            "march": "low",
+            "april": "low",
+            "may": "low",
+            "june": "low",
+            "september": "low",
+            "october": "low",
+            "november": "low"
+        },
+        "catch_phrase": "I caught a char! How bizarre!",
+        "museum_detail": "Char are related to salmon and live in rivers upstream, not generally migrating to the ocean. They prefer colder water and dwell in secluded, clear rivers deep in mountain ranges. Since they tend to hide mostly in between rocks in these cold areas, they can be rather difficult to spot.",
+        "japanese": "オオイワナ"
+    },
+    {
+        "name": "Rainbow Trout",
+        "price": 800,
+        "shadow": "Long",
+        "location": "River",
+        "time": "4AM-9AM and 4PM-9PM",
+        "months": {
+            "march": "high",
+            "april": "high",
+            "may": "high",
+            "june": "low",
+            "september": "low",
+            "october": "high",
+            "november": "low"
+        },
+        "catch_phrase": "I caught a rainbow trout! That's what I'm talking about!",
+        "museum_detail": "When rainbow trout get bigger, they develop a pretty pink band from their gills to their tails. Some of them spend their entire lives in rivers, while others live in the ocean. Steelhead trout are a unique type of rainbow trout that live in the ocean and return to freshwater to spawn. Rainbow trout are a major species of fish, but finding them in the wild is actually fairly rare.",
+        "japanese": "ニジマス"
+    },
+    {
+        "name": "Stringfish",
+        "price": 15000,
+        "shadow": "Longest",
+        "location": "River",
+        "time": "4PM-9AM",
+        "months": {
+            "january": "low",
+            "february": "low",
+            "december": "low"
+        },
+        "catch_phrase": "OH MY GOSH! I caught a stringfish! My theory really paid off!",
+        "museum_detail": "Stringfish live in cold rivers, can grow to over a yard long, and are stout and bulky like logs. They live up to 20 years but grow so slowly that it takes them 15 years to reach full maturity. They are called 'phantom fish' because there are so few of them. Adults are particularly hard to find.",
+        "japanese": "イトウ"
+    },
+    {
+        "name": "Salmon",
+        "price": 700,
+        "shadow": "Long",
+        "location": "River Mouth",
+        "time": "All Day",
+        "months": {
+            "september": "low"
+        },
+        "catch_phrase": "I caught a salmon! Oh, that's slammin'!",
+        "museum_detail": "Salmon are popular migratory fish that are born in rivers, migrate to oceans, and return in four years. In Japan, flavored salmon eggs are a very popular dish called ikura, but it hasn't caught on in the US. In rare cases, salmon will only stay in the ocean for one or two years before coming back. These fish are known as \"phantom salmon\" since they're so hard to find in the wild. Their characteristic pink color comes from the shrimp and krill they get in their diet. If they ate differently, their flesh would be white.",
+        "japanese": "サケ"
+    },
+    {
+        "name": "King Salmon",
+        "price": 1800,
+        "shadow": "Longest",
+        "location": "River Mouth",
+        "time": "All Day",
+        "months": {
+            "september": "low"
+        },
+        "catch_phrase": "Woohoo! I caught a King Salmon! Where are his horses and men?",
+        "museum_detail": "King salmon grow to about twice the size of regular salmon, which really helps them embody the name. This size essentially makes them the actual kings of salmon, though they are also called chinook salmon. In some regions, they return to the river in spring or summer and live there until spawning in the fall. In rare cases, king salmons' meat will be white, but these are not as popular since pink is the standard.",
+        "japanese": "キングサーモン"
+    },
+    {
+        "name": "Mitten Crab",
+        "price": 2000,
+        "shadow": "Short",
+        "location": "River",
+        "time": "4PM-9AM",
+        "catch_phrase": "I caught a mitten crab! I'm smitten, crab!",
+        "museum_detail": "Officially known as the mitten crab, they also go by the name \"shanghai crab.\" They are commonly used in Chinese dishes, which is how most people became familiar with them. Their breeding habits are completely opposite of salmon in that they hatch in the ocean first. They then move up rivers when they reach adult size, returning to the ocean to spawn.",
+        "japanese": "シャンハイガニ",
+        "notes": "Available starting Mid-September"
+    },
+    {
+        "name": "Guppy",
+        "price": 1300,
+        "shadow": "Shortest",
+        "location": "River",
+        "time": "9AM-4PM",
+        "months": {
+            "april": "low",
+            "may": "low",
+            "june": "low",
+            "july": "low",
+            "august": "low",
+            "september": "low",
+            "october": "low",
+            "november": "low"
+        },
+        "catch_phrase": "I caught a guppy! I gotta show off this puppy!",
+        "museum_detail": "Guppies are tropical fish that are related to killifish and live in warm rivers. They are popular fish that have been bred to have beautiful flowing tail fins. Mother guppies give birth to their babies after the eggs hatch in their bellies. They give birth at a rate that's nearly constant, so their population tends to grow rather quickly.",
+        "japanese": "グッピー"
+    },
+    {
+        "name": "Nibble Fish",
+        "price": 1500,
+        "shadow": "Short",
+        "location": "River",
+        "time": "9AM-4PM",
+        "months": {
+            "may": "low",
+            "june": "low",
+            "july": "low",
+            "august": "low",
+            "september": "low"
+        },
+        "catch_phrase": "I caught a nibble fish! Do you regret nibbling now?",
+        "museum_detail": "The official name given to this warm-water-dwelling species of fish is \"Garra rufa.\" They are omnivorous, as they both eat algae and scrape the skin off other fish. All you'd have to do to feed them is stick your hand in the tank; they would live off your dead skin. That's why they're called nibble fish. The exfoliate but don't have any teeth, so it doesn't hurt at all!",
+        "japanese": "ドクターフィッシュ"
+    },
+    {
+        "name": "Angelfish",
+        "price": 3000,
+        "shadow": "Short",
+        "location": "River",
+        "time": "4PM-9AM",
+        "months": {
+            "may": "low",
+            "june": "low",
+            "july": "low",
+            "august": "low",
+            "september": "low",
+            "october": "low"
+        },
+        "catch_phrase": "I caught an angelfish! Now where's its harp?",
+        "museum_detail": "These tropical fish move very gracefully because of long fins on their backs and underbellies. Males and females are almost impossible to tell apart, making identification tricky. They lay eggs among water plants. Both genders look after the babies while they cling to the weeds. The young look like any other fish, but they gain their angelfish looks once they leave the weeds.",
+        "japanese": "エンゼルフィッシュ"
+    },
+    {
+        "name": "Neon Tetra",
+        "price": 500,
+        "shadow": "Shortest",
+        "location": "River",
+        "time": "9AM-4PM",
+        "months": {
+            "april": "low",
+            "may": "low",
+            "june": "low",
+            "july": "low",
+            "august": "low",
+            "september": "low",
+            "october": "low",
+            "november": "low"
+        },
+        "catch_phrase": "I caught a neon tetra! Wow, that's far out, man!",
+        "museum_detail": "Neon tetras get their name from the beautiful blue metallic line on their bodies. Although they're shy, gentle fish, suprisingly they're related to piranha, though very distantly. They have very sharp and narrow teeth, an odd contrast to their beauty. They are delicate fish who tend to be very sensitive to the cleanliness and temperature of water.",
+        "japanese": "ネオンテトラ"
+    },
+    {
+        "name": "Piranha",
+        "price": 2500,
+        "shadow": "Short",
+        "location": "River",
+        "time": "9AM-4PM and 9PM-4AM",
+        "months": {
+            "june": "low",
+            "july": "low",
+            "august": "low",
+            "september": "low"
+        },
+        "catch_phrase": "I caught a piranha! Or did it catch ME?!",
+        "museum_detail": "They have terrifyingly sharp teeth, which contributes to their ferocious reputation. Oddly enough, they are actually quite timid, though they are still very dangerous fish. If they can't find food, they will resort to cannibalism or tear apart any animal they can grab hold of. Take care when catching them so they don't end up biting your hand with their sharp teeth!",
+        "japanese": "ピラニア"
+    },
+    {
+        "name": "Arowana",
+        "price": 10000,
+        "shadow": "Long",
+        "location": "River",
+        "time": "4PM-9AM",
+        "months": {
+            "june": "low",
+            "july": "low",
+            "august": "low",
+            "september": "low"
+        },
+        "catch_phrase": "I caught an arowana! But where's its bow?",
+        "museum_detail": "Arowanas are ancient fish that have remained basically unchanged for 100 million years. They are known for their large scales and the hair that sticks out from their lower lips. They have remarkable jumping ability and can leap over a yard above the surface of the water. Males protect babies by keeping them in their mouths and releasing them once they reach a certain size.",
+        "japanese": "アロワナ"
+    },
+    {
+        "name": "Dorado",
+        "price": 15000,
+        "shadow": "Very Long",
+        "location": "River",
+        "time": "4AM-9PM",
+        "months": {
+            "june": "low",
+            "july": "low",
+            "august": "low",
+            "september": "low"
+        },
+        "catch_phrase": "I caught a dorado! I should make that my motto!",
+        "museum_detail": "Dorado means \"golden\" in Spanish. As the name would indicate, these fish are gold and have black dots. They look like salmon but are very toothy, carnivorous, and related to piranha. They're such ferocious fish that other fish regularly flee from them, fearful of becoming a snack. Their ferocious natures and power make them a prize among anglers.",
+        "japanese": "ドラド"
+    },
+    {
+        "name": "Gar",
+        "price": 6000,
+        "shadow": "Longest",
+        "location": "Lake",
+        "time": "4PM-9AM",
+        "months": {
+            "june": "low",
+            "july": "low",
+            "august": "low",
+            "september": "low"
+        },
+        "catch_phrase": "I caught a gar! It ain't gettin' too far!",
+        "museum_detail": "Their long faces and large mouths make them look like alligators.  Some can grow up to three yards.  They are ancient fish that haven't changed since they first appeared millions of years ago.  They breathe not only through gills, but also by sticking their mouths above the surface of the water.  Gar eggs are poisonous, so people all over the world are advised to not eat them-no exceptions.",
+        "japanese": "ガー"
+    },
+    {
+        "name": "Arapaima",
+        "price": 10000,
+        "shadow": "Longest",
+        "location": "River",
+        "time": "4PM-9AM",
+        "months": {
+            "july": "low",
+            "august": "low",
+            "september": "low"
+        },
+        "catch_phrase": "And it looks like it's in its prime-a!",
+        "museum_detail": "Arapaima, at over two yards long, are one of largest freshwater-fish breeds in the world. They've been around for over 100 milion years, making them rather ancient fish as well. They breathe through gills but also with an air bladder used by poking their mouths above water. They have hard, course tongues that are used to break down the smaller fish they eat.",
+        "japanese": "ピラルク"
+    },
+    {
+        "name": "Saddled Bichir",
+        "price": 4000,
+        "shadow": "Long",
+        "location": "River",
+        "time": "9PM-4AM",
+        "months": {
+            "june": "low",
+            "july": "low",
+            "august": "low",
+            "september": "low"
+        },
+        "catch_phrase": "Wow! A saddled bichir! Now I'm saddled with guilt!",
+        "museum_detail": "The cool-looking saddled bichir are ancient fish with spiky fins on their backs. Though they've been around for more than 400 million years, they remain relatively unchanged. They have big appetites and will wait to ambush any fish they think will fit in their mouths. They can grow up to 30 inches long, making them rather large fish indeed. They swim slowly in a way that gives them the appearance of walking like dinosaurs.",
+        "japanese": "エンドリケリー"
+    },
+    {
+        "name": "Sea Butterfly",
+        "price": 1000,
+        "shadow": "Shortest",
+        "location": "Ocean",
+        "time": "All Day",
+        "months": {
+            "january": "low",
+            "february": "low",
+            "december": "low"
+        },
+        "catch_phrase": "I caught a sea butterfly! I didn't even use a net!",
+        "museum_detail": "Sea butterflies go with the flow, as they'll drift in cold winter waters along with ice floes. They are called \"ice-floe angels\" because of the mysterious way they swim with their winglike arms. Their heads will open up when they make an attempt to catch their helpless prey. Once its head is opened, it grabs its prey with six special feelers called \"buccal cones.\" The only place you'll find both cold water and tropical sea butterflies swimming together is in the game.",
+        "japanese": "クリオネ"
+    },
+    {
+        "name": "Sea Horse",
+        "price": 1100,
+        "shadow": "Shortest",
+        "location": "Ocean",
+        "time": "All Day",
+        "months": {
+            "april": "low",
+            "may": "high",
+            "june": "high",
+            "july": "high",
+            "august": "high",
+            "september": "high",
+            "october": "high",
+            "november": "low"
+        },
+        "catch_phrase": "I caught a sea horse! I meant to, of course!",
+        "museum_detail": "Sea horses don't look like fish, but they still share a lot of distinct connections. They use their small dorsal fins and tail fins to swim, but in actuality they're pretty bad swimmers. They wrap their tail fins around seaweed or coral so they won't float away with the current. Once attached, they feed on plankton and small shrimp that float by. The female deposits eggs in the male's pouch, putting the burden of child care on the male.",
+        "japanese": "タツノオトシゴ"
+    },
+    {
+        "name": "Clown Fish",
+        "price": 650,
+        "shadow": "Shortest",
+        "location": "Ocean",
+        "time": "All Day",
+        "months": {
+            "april": "low",
+            "may": "high",
+            "june": "high",
+            "july": "high",
+            "august": "high",
+            "september": "low"
+        },
+        "catch_phrase": "I caught a clown fish! Who's laughing now?",
+        "museum_detail": "Clown fish spend their lives hiding among the feelers of sea anemones, a place that only they can live. Their homes may be dangerous, but they produce a special coating that protects them from the poison. In exchange for anemone's protection, the clown fish chases off any parasitic bugs and enemies. Curiously, all clown fish are males when they're young but change into females if necessity demands.",
+        "japanese": "クマノミ"
+    },
+    {
+        "name": "Surgeonfish",
+        "price": 1000,
+        "shadow": "Short",
+        "location": "Ocean",
+        "time": "All Day",
+        "months": {
+            "april": "low",
+            "may": "low",
+            "june": "low",
+            "july": "low",
+            "august": "low",
+            "september": "low"
+        },
+        "catch_phrase": "I caught a surgeonfish! It was a simply operation, though!",
+        "museum_detail": "These tropical fish sport beautiful, yellow, triangular tails and elegant black lines in dazzling blue bodies. Personalitywise, the surgeonfish is actually rather laid back and timid. They seek out gaps in coral or between rocks for the greatest amount of protection while sleeping.",
+        "japanese": "ナンヨウハギ"
+    },
+    {
+        "name": "Butterfly Fish",
+        "price": 1000,
+        "shadow": "Short",
+        "location": "Ocean",
+        "time": "All Day",
+        "months": {
+            "april": "low",
+            "may": "high",
+            "june": "high",
+            "july": "low",
+            "august": "low",
+            "september": "low"
+        },
+        "catch_phrase": "I caught a butterfly fish! As mayor, welcome to my pockets!",
+        "museum_detail": "Butterfly fish are considered very cute pets, popular because of their beautiful nature. They glide through the warm seas by flapping their yellow bodies as if they were butterflies. Their diets are suprisingly hardy, as they gobble coral and poisonous anemones using narrow mouths. Butterfly fish couples have been known to live together for 10 years or more. Often they can be swimming around in pairs. You'll likely never find a better underwater romance.",
+        "japanese": "チョウチョウウオ"
+    },
+    {
+        "name": "Napoleonfish",
+        "price": 10000,
+        "shadow": "Longest",
+        "location": "Ocean",
+        "time": "4AM-9PM",
+        "months": {
+            "july": "low",
+            "august": "low"
+        },
+        "catch_phrase": "I caught a napoleonfish! Viva la me!",
+        "museum_detail": "Called Napoleonfish, these fish also have the more accurate name of humphead wrasse. The true name comes from the distinctive humps on their heads. But \"Napoleonfish\" is more popular. When small, all Napoleonfish are females, but some become males as they age and their humps grow. Their bodies also turn a bluer shade as they mature and become males, making identification simple. Their bulky bodies, which can get to about six feet long, still glide easily through warm tropical seas. Finding these fish is a real treat for divers, as they're stunning to see- and it's a great story to tell.",
+        "japanese": "ナポレオンフィッシュ"
+    },
+    {
+        "name": "Zebra Turkeyfish",
+        "price": 400,
+        "shadow": "Medium",
+        "location": "Ocean",
+        "time": "All Day",
+        "months": {
+            "april": "low",
+            "may": "high",
+            "june": "high",
+            "july": "high",
+            "august": "high",
+            "september": "high",
+            "october": "high",
+            "november": "low"
+        },
+        "catch_phrase": "I caught a zebra turkeyfish! What are you? Make up your mind!",
+        "museum_detail": "Zebra turkeyfish have long, beautiful fins that flow like gowns as they swim through the sea. However, these aquatic beauties pack a punch, as their fins are filled with poisonous spikes. Aside from protection against predators, this poison comes in handy for turf wars between males. The losing male succumbs to the poison in a matter of days, making these battles life and death.",
+        "japanese": "ミノカサゴ"
+    },
+    {
+        "name": "Blow Fish",
+        "price": 125,
+        "shadow": "Medium",
+        "location": "Ocean",
+        "time": "9PM-4AM",
+        "months": {
+            "january": "low",
+            "february": "low",
+            "november": "low",
+            "december": "low"
+        }
+    },
+    {
+        "name": "Puffer Fish",
+        "price": 240,
+        "shadow": "Medium",
+        "location": "Ocean",
+        "time": "All Day",
+        "months": {
+            "july": "low",
+            "august": "high",
+            "september": "low"
+        },
+        "catch_phrase": "I caught a puffer fish! Ouch!",
+        "museum_detail": "As expected, all puffer fish are covered in spines. While related to blowfish, they are not poisonous. Exaggerated claims about the fish say they have 1,000 spines; the true number is between 300 and 400. When threatened, they suck in water and air to puff themselves up in order to intimidate enemies.",
+        "japanese": "ハリセンボン"
+    },
+    {
+        "name": "Horse Mackerel",
+        "price": 150,
+        "shadow": "Short",
+        "location": "Ocean",
+        "time": "All Day",
+        "months": {
+            "january": "low",
+            "february": "low",
+            "march": "low",
+            "april": "low",
+            "may": "low",
+            "june": "low",
+            "july": "low",
+            "august": "low",
+            "september": "low",
+            "october": "low",
+            "november": "low",
+            "december": "low"
+        },
+        "catch_phrase": "I caught a horse mackerel! Holy mackerel!",
+        "museum_detail": "With their appealing flavor, horse mackerel have long been a cheap and common food source. However, in certain regions, they have actually been branded as something of a luxury dish. They have tough scales on both sides of their bodies that must be removed before preparing. Though small, they are formidable carnivores. Since they go after bait, they are popular with fishers.",
+        "japanese": "アジ"
+    },
+    {
+        "name": "Barred Knifejaw",
+        "price": 5000,
+        "shadow": "Medium",
+        "location": "Ocean",
+        "time": "All Day",
+        "months": {
+            "march": "low",
+            "april": "low",
+            "may": "low",
+            "june": "low",
+            "july": "low",
+            "august": "low",
+            "september": "low",
+            "october": "low",
+            "november": "low"
+        },
+        "catch_phrase": "I caught a barred knifejaw! I'll have to use it to cut veggies!",
+        "museum_detail": "Barred knifejaws stand out thanks to the seven stripes adorning their white bodies. Their natural curiosity and strong pull make them a popular target of anglers, but they're no easy catch. They have strong teeth that allow them to make short work of sea creatures with tough shells. This means that both urchins and mollusks need to be careful, lest they become meals for these fish.",
+        "japanese": "イシダイ"
+    },
+    {
+        "name": "Sea Bass",
+        "price": 200,
+        "shadow": "Very Long",
+        "location": "Ocean",
+        "time": "All Day",
+        "months": {
+            "january": "low",
+            "february": "low",
+            "march": "low",
+            "april": "low",
+            "may": "low",
+            "june": "low",
+            "july": "low",
+            "august": "low",
+            "september": "low",
+            "october": "low",
+            "november": "low",
+            "december": "low"
+        },
+        "catch_phrase": "I caught a sea bass! What?! You again?!",
+        "museum_detail": "Sea bass are famous for their delicious white meat as well as their large size. If they ingest something inedible, they open up their mouths and gills and violently shake their heads. They generally manage to expel the foreign material, though it has the added effect of looking rather odd. Much like their freshwater cousins, sea bass have a strong pull, making them a great challenge for anglers.",
+        "japanese": "スズキ"
+    },
+    {
+        "name": "Red Snapper",
+        "price": 3000,
+        "shadow": "Medium",
+        "location": "Ocean",
+        "time": "All Day",
+        "months": {
+            "january": "low",
+            "february": "low",
+            "march": "high",
+            "april": "high",
+            "may": "high",
+            "june": "high",
+            "july": "high",
+            "august": "high",
+            "september": "high",
+            "october": "high",
+            "november": "low",
+            "december": "low"
+        },
+        "catch_phrase": "I just caught a red snapper! I just snapped it up!",
+        "museum_detail": "Red Snappers are gregarious fish that often form schools close to reefs and shipwrecks. They are prized food fish, but because of demand, other species are often served as \"red snapper.\" They usually live up to 50 years. The oldest recorded red snapper was thought to be 57.",
+        "japanese": "タイ"
+    },
+    {
+        "name": "Dab",
+        "price": 300,
+        "shadow": "Medium",
+        "location": "Ocean",
+        "time": "All Day",
+        "months": {
+            "january": "high",
+            "february": "high",
+            "march": "high",
+            "april": "low",
+            "october": "low",
+            "november": "high",
+            "december": "high"
+        },
+        "catch_phrase": "I caught a dab! I'm not just dabbling anymore!",
+        "museum_detail": "Dabs generally have both eyes on the right side of their body, though there are some exceptions. Both types of dabs begin in infancy with an eye on each side of their body. As dabs grow, the eye on the left migrates to the right, though sometimes it doesn't move at all. Dabs dig in the sand to hide, which allows their eyes to stick up a bit to watch for danger. Because they live off of bugs and small creatures, their mouths are small, containing narrow, dull teeth.",
+        "japanese": "カレイ"
+    },
+    {
+        "name": "Olive Flounder",
+        "price": 800,
+        "shadow": "Long",
+        "location": "Ocean",
+        "time": "All Day",
+        "months": {
+            "january": "high",
+            "february": "high",
+            "march": "high",
+            "april": "low",
+            "may": "low",
+            "june": "low",
+            "july": "low",
+            "august": "low",
+            "september": "low",
+            "october": "low",
+            "november": "high",
+            "december": "high"
+        },
+        "catch_phrase": "I caught a dab...   Huh? Just kidding! It's an olive flounder! Make up your mind, fishy!",
+        "museum_detail": "Olive flounders are rather flexible whitefish that have both eyes on the left side of their body. They can reach three feet in length and are commonly mistaken for dabs, a close relative. When young, they have an eye on each side, but as they age, their right eye migrates to their left side. These carnivorous fish can change color to camouflage themselves on the seabed as they wait for prey.",
+        "japanese": "ヒラメ"
+    },
+    {
+        "name": "Squid",
+        "price": 400,
+        "shadow": "Medium",
+        "location": "Ocean",
+        "time": "All Day",
+        "months": {
+            "january": "low",
+            "february": "low",
+            "march": "low",
+            "april": "low",
+            "may": "low",
+            "june": "low",
+            "july": "low",
+            "august": "low",
+            "december": "low"
+        },
+        "catch_phrase": "I caught a squid! Yes, I did!",
+        "museum_detail": "People assume squids have legs, but they are actually arms. There are 10 in all; two are used to grab prey. To swim, they twist their fins and expel water from inside thier bodies to allow for fluid motion. The ink they shoot when threatened forms into the shape of a squid, acting as sort of a body double.",
+        "japanese": "イカ"
+    },
+    {
+        "name": "Moray Eel",
+        "price": 2000,
+        "shadow": "Very Long",
+        "location": "Ocean",
+        "time": "All Day",
+        "months": {
+            "august": "low",
+            "september": "low",
+            "october": "low"
+        },
+        "catch_phrase": "I caught a moray eel! And I was like, \"No way! Deal!\"",
+        "museum_detail": "Moray eels can often be seen sticking just their heads out from between two rocks. When unsuspecting prey approaches, they dart out to snatch it up into their sharp-toothed mouths. Once moray eels have their teeth in you, it's hard to get away, making moray-eel bites no trifling matter. Their long, finless bodies are covered in tough, snakelike skin that often gets used as leather.",
+        "japanese": "ウツボ"
+    },
+    {
+        "name": "Ribbon Eel",
+        "price": 600,
+        "shadow": "Long and Thin",
+        "location": "Tropical Island",
+        "time": "All Day",
+        "months": {
+            "january": "low",
+            "february": "low",
+            "march": "low",
+            "april": "low",
+            "may": "low",
+            "june": "low",
+            "july": "low",
+            "august": "low",
+            "september": "low",
+            "october": "low",
+            "november": "low",
+            "december": "low"
+        },
+        "catch_phrase": "I caught a ribbon eel! Good for tying on to presents!",
+        "museum_detail": "Ribbon eels have long, ribbonlike bodies and look as if they have flowers sprouting from their noses. They get their name from their bright, vivid color, in addition to the length of their skinny bodies. Ribbon eels hatch sexless before first becoming males, then females as they age. Their tendency to stick their heads out from holes in the sand and open their mouth is not a sign of anger. In actuality, they're merely taking a breath. Oddly, they're suprisingly peaceful creatures, despite the look.",
+        "japanese": "ハナヒゲウツボ"
+    },
+    {
+        "name": "Football Fish",
+        "price": 2500,
+        "shadow": "Long",
+        "location": "Ocean",
+        "time": "4PM-9AM",
+        "months": {
+            "january": "high",
+            "february": "high",
+            "march": "low",
+            "november": "low",
+            "december": "high"
+        },
+        "catch_phrase": "I caught a football fish! Thanks to my fishing tackle!",
+        "museum_detail": "Football fish live in parts of the ocean so deep that light does not reach them.Their lanterns, which they sway back and forth to lure prey, can emit light thanks to special bacteria. When prey gets near, they shoot a luminescent liquid and snatch the prey while it's blinded by the light. Only females possess the useful lantern. They can grow to be about two feet by maturity. Males are small, less than two inches in length.",
+        "japanese": "チョウチンアンコウ"
+    },
+    {
+        "name": "Tuna",
+        "price": 7000,
+        "shadow": "Longest",
+        "location": "Ocean",
+        "time": "All Day",
+        "months": {
+            "january": "low",
+            "february": "low",
+            "march": "low",
+            "november": "low",
+            "december": "low"
+        },
+        "catch_phrase": "I caught a tuna! And now it's stuck in my head!",
+        "museum_detail": "Tuna can reach almost 10 feet in length and weigh over 800 pounds, which is huge in the fish world. Combining this great size with their good flavor makes them literally the biggest catch for most anglers. Tuna can't breathe when they aren't moving, so their entire lives revolve around constantly swimming. To sleep, they merely slow down. This ability to swim while sleeping is a huge advantage. They're also rather fast, capable of beating both sets of fins so hard they reach speeds of 50 mph.",
+        "japanese": "マグロ"
+    },
+    {
+        "name": "Blue Marlin",
+        "price": 10000,
+        "shadow": "Longest",
+        "location": "Ocean",
+        "time": "All Day",
+        "months": {
+            "july": "low",
+            "august": "low",
+            "september": "low"
+        },
+        "catch_phrase": "I caught a blue marlin! What a true darlin'.",
+        "museum_detail": "Blue marlins are famous for their long, swordlike noses that give them the nickname \"swordfish.\" They use their \"swords\" to knock out their prey before capture, not skewering it as you'd think. Able to swim at speeds above 60 mph, their speed and power make them a true test for any angler.",
+        "japanese": "カジキ"
+    },
+    {
+        "name": "Giant Trevally",
+        "price": 4500,
+        "shadow": "Very Long",
+        "location": "Tropical Island",
+        "time": "All Day",
+        "months": {
+            "january": "low",
+            "february": "low",
+            "march": "low",
+            "april": "low",
+            "may": "low",
+            "june": "low",
+            "july": "low",
+            "august": "low",
+            "september": "low",
+            "october": "low",
+            "november": "low",
+            "december": "low"
+        },
+        "catch_phrase": "I caught a giant trevally! Pfff, I've seen bigger.",
+        "museum_detail": "Though you wouldn't guess it because of their size, giant trevallys are actually a type of mackerel. Unlike normally slim and sleek mackerels, giant trevallys have wide, silver bodies. Suprisingly, though, these fish cannot tolerate the cold, so they tend to live in warmer places. Their jaw strength is great enough to bite off a person's finger, so be very careful while fishing for them!",
+        "japanese": "ロウニンアジ"
+    },
+    {
+        "name": "Ray",
+        "price": 3000,
+        "shadow": "Very Long",
+        "location": "Ocean",
+        "time": "4AM-9PM",
+        "months": {
+            "august": "low",
+            "september": "low",
+            "october": "low",
+            "november": "low"
+        },
+        "catch_phrase": "I caught a ray! That made my day!",
+        "museum_detail": "Beating their large fins up and down to move throughout the water almost gives rays the impression of flying. If viewed from below, rays appear to have their mouths curled up into a sort of smile. Some varieties have poisonous spikes at the base of their long tail fins that can be fatal to humans. This, combined with the ability to hide in sand at the bottom of the sea, can make them very dangerous.",
+        "japanese": "エイ"
+    },
+    {
+        "name": "Ocean Sunfish",
+        "price": 4000,
+        "shadow": "Longest, Fin",
+        "location": "Ocean",
+        "time": "4AM-9PM",
+        "months": {
+            "june": "low",
+            "july": "low",
+            "august": "low",
+            "september": "low"
+        },
+        "catch_phrase": "I caught an ocean sunfish! My day is brighter already!",
+        "museum_detail": "Ocean sunfish are a relative of blowfish that can reach up to two tons in weight. Laching a tail fin, they cannot swin particularly quickly, which is an odd bit of anatomical detriment. The number of eggs they can lay is the most in the world at over 300 million. However, out of that 300 million, only one or two fish will ultimately survive. Ocean sunfish sometimes like to bob up and down on the surface of the ocean. This gives them the appearance they're sunbathing, which help to make them a popular breed of fish.",
+        "japanese": "マンボウ"
+    },
+    {
+        "name": "Hammerhead Shark",
+        "price": 8000,
+        "shadow": "Longest, Fin",
+        "location": "Ocean",
+        "time": "4PM-9AM",
+        "months": {
+            "june": "low",
+            "july": "low",
+            "august": "low",
+            "september": "low"
+        },
+        "catch_phrase": "I caught a hammerhead shark! I really nailed it!",
+        "museum_detail": "The hammerhead shark is a shark with a head like a hammer, which is what you'd expect. However, despite being sharks, they are actually fairly laid back, which is not what you'd expect. With their eyes positioned on the two ends of their \"hammer,\" they can see in almost all directions. Oddly, their nose holes are located right next to their hammer section. They have a number of small holes on the front and lower portions of their heads as well. These holes allow them to detect prey, even fish hiding below them and out of sight. While they eat a nice array of fish, it seems rays are their favorite source of food. Rays, beware!",
+        "japanese": "シュモクザメ"
+    },
+    {
+        "name": "Shark",
+        "price": 15000,
+        "shadow": "Longest, Fin",
+        "location": "Ocean",
+        "time": "4PM-9AM",
+        "months": {
+            "june": "low",
+            "july": "low",
+            "august": "low",
+            "september": "low"
+        },
+        "catch_phrase": "I caught a shark! GAH! Why am I holding it?",
+        "museum_detail": "The triangular teeth of sharks appear to have evolved from scales sometime in the past. When a tooth breaks, it quickly falls out and a new one grows in, keeping them always in good shape for prey. Sharks can be fearsome creatures, able to smell blood from several miles away. They can even jump out of the water to catch prey, making them powerful predators. Contrary to their tough image, their bones are made out of cartilage and erroneously used as health food.",
+        "japanese": "サメ"
+    },
+    {
+        "name": "Saw Shark",
+        "price": 12000,
+        "shadow": "Longest, Fin",
+        "location": "Ocean",
+        "time": "4PM-9AM",
+        "months": {
+            "june": "low",
+            "july": "low",
+            "august": "low",
+            "september": "low"
+        },
+        "catch_phrase": "I caught a saw shark! And yet it didn't see me coming!",
+        "museum_detail": "Saw sharks got their name from their long head lined with spikelike teeth much like a chain-saw blade. Sensors located below their mouths detect prey as they press their flat bodies against the seabed to search. They will sometimes swing their \"saws\" wildly amid a school of fish, catching any that are struck.",
+        "japanese": "ノコギリザメ"
+    },
+    {
+        "name": "Whale Shark",
+        "price": 13000,
+        "shadow": "Longest, Fin",
+        "location": "Tropical Island",
+        "time": "All Day",
+        "months": {
+            "january": "low",
+            "february": "low",
+            "march": "low",
+            "april": "low",
+            "may": "low",
+            "june": "low",
+            "july": "low",
+            "august": "low",
+            "september": "low",
+            "october": "low",
+            "november": "low",
+            "december": "low"
+        },
+        "catch_phrase": "Omigosh! I caught a whale shark! It could have swallowed me up!",
+        "museum_detail": "Whale sharks are the world's largest fish, but they're surprsingly some of the gentlest. They can swim at only three mph, so although they're large and very imposing, they're not really a threat. They swim with their mouths open to swallow vast quantities of tiny creatures and seawater. As they expel the water through their gills, they will eat what then remains. Since they don't have to bite prey, their teeth are file-like and number about 10,000 in multiple rows.",
+        "japanese": "ジンベエザメ"
+    },
+    {
+        "name": "Oarfish",
+        "price": 9000,
+        "shadow": "Longest",
+        "location": "Ocean",
+        "time": "All Day",
+        "months": {
+            "january": "low",
+            "february": "low",
+            "march": "low",
+            "april": "low",
+            "may": "low",
+            "december": "low"
+        },
+        "catch_phrase": "I caught an oarfish! Good, I needed a paddle!",
+        "museum_detail": "Oarfish are deep-sea-dwelling fish with long, thin, silver bodies and one red fin lining their backs. They can reach lengths of over 10 yards, making them huge and striking fish. They usually swim by twisting their long, thin bodies, but they can also swim in more vertical positions. Their mouths are small compared to their bodies and they have no teeth, so they're large but not imposing.",
+        "japanese": "リュウグウノツカイ"
+    },
+    {
+        "name": "Coelacanth",
+        "price": 15000,
+        "shadow": "Longest",
+        "location": "Ocean during rain or snow",
+        "time": "4PM-9AM",
+        "months": {
+            "january": "low",
+            "february": "low",
+            "march": "low",
+            "april": "low",
+            "may": "low",
+            "june": "low",
+            "july": "low",
+            "august": "low",
+            "september": "low",
+            "october": "low",
+            "november": "low",
+            "december": "low"
+        },
+        "catch_phrase": "Holy Fishsticks! I caught a coelacanth! Am I saying it right?",
+        "museum_detail": "Coelacanths are ancient fish once believed to be extinct but recently discovered around South Africa. Called \"living fossils,\" they have apparently changed very little over the past 400 million years. They can live for over 60 years and reach lengths of six feet but have rather small brains, even for fish. They have more fins and harder scales than the average fish, making them a rather resilient breed. Their flavor is very different from most fish, and they contain a fat that is indigestible by humans. It's for that second reason that eating them really isn't highly recommended.",
+        "japanese": "シーラカンス"
+    }
+]
